@@ -53,5 +53,11 @@
     <ClInclude Include="..\..\Source\JamsilBridgeWar\JamsilBridgeWarGameMode.h">
       <Filter>Source\JamsilBridgeWar</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\JamsilBridgeWar\JamsilBridgeWarPlayerController.cpp">
+      <Filter>Source\JamsilBridgeWar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JamsilBridgeWar\JamsilBridgeWarPlayerController.h">
+      <Filter>Source\JamsilBridgeWar</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

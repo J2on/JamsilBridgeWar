@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "j:\\documents\\github\\jamsilbridgewar\\jamsilbridgewar\\intermediate\\build\\win64\\unrealeditor\\inc\\jamsilbridgewar\\jamsilbridgewarplayercontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "j:\\documents\\github\\jamsilbridgewar\\jamsilbridgewar\\intermediate\\build\\win64\\jamsilbridgewareditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "j:\\documents\\github\\jamsilbridgewar\\jamsilbridgewar\\intermediate\\build\\win64\\unrealeditor\\development\\jamsilbridgewar\\definitions.jamsilbridgewar.h",
+            "j:\\documents\\github\\jamsilbridgewar\\jamsilbridgewar\\source\\jamsilbridgewar\\jamsilbridgewarplayercontroller.h",
+            "j:\\documents\\github\\jamsilbridgewar\\jamsilbridgewar\\intermediate\\build\\win64\\unrealeditor\\inc\\jamsilbridgewar\\jamsilbridgewarplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

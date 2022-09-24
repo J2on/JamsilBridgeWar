@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "j:\\documents\\github\\jamsilbridgewar\\jamsilbridgewar\\intermediate\\build\\win64\\unrealeditor\\inc\\jamsilbridgewar\\jamsilbridgewar.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "j:\\documents\\github\\jamsilbridgewar\\jamsilbridgewar\\intermediate\\build\\win64\\jamsilbridgewareditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "j:\\documents\\github\\jamsilbridgewar\\jamsilbridgewar\\intermediate\\build\\win64\\unrealeditor\\development\\jamsilbridgewar\\definitions.jamsilbridgewar.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

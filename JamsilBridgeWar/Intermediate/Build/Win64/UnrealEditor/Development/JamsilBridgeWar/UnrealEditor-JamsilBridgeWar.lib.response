@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-JamsilBridgeWar.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"J:\Documents\GitHub\JamsilBridgeWar\JamsilBridgeWar\Intermediate\Build\Win64\JamsilBridgeWarEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"J:\Documents\GitHub\JamsilBridgeWar\JamsilBridgeWar\Intermediate\Build\Win64\UnrealEditor\Development\JamsilBridgeWar\JamsilBridgeWar.cpp.obj"
+"J:\Documents\GitHub\JamsilBridgeWar\JamsilBridgeWar\Intermediate\Build\Win64\UnrealEditor\Development\JamsilBridgeWar\JamsilBridgeWarCharacter.cpp.obj"
+"J:\Documents\GitHub\JamsilBridgeWar\JamsilBridgeWar\Intermediate\Build\Win64\UnrealEditor\Development\JamsilBridgeWar\JamsilBridgeWarGameMode.cpp.obj"
+"J:\Documents\GitHub\JamsilBridgeWar\JamsilBridgeWar\Intermediate\Build\Win64\UnrealEditor\Development\JamsilBridgeWar\JamsilBridgeWar.init.gen.cpp.obj"
+"J:\Documents\GitHub\JamsilBridgeWar\JamsilBridgeWar\Intermediate\Build\Win64\UnrealEditor\Development\JamsilBridgeWar\JamsilBridgeWarCharacter.gen.cpp.obj"
+"J:\Documents\GitHub\JamsilBridgeWar\JamsilBridgeWar\Intermediate\Build\Win64\UnrealEditor\Development\JamsilBridgeWar\JamsilBridgeWarGameMode.gen.cpp.obj"
+"J:\Documents\GitHub\JamsilBridgeWar\JamsilBridgeWar\Intermediate\Build\Win64\UnrealEditor\Development\JamsilBridgeWar\Default.rc2.res"
+/OUT:"J:\Documents\GitHub\JamsilBridgeWar\JamsilBridgeWar\Intermediate\Build\Win64\UnrealEditor\Development\JamsilBridgeWar\UnrealEditor-JamsilBridgeWar.lib"

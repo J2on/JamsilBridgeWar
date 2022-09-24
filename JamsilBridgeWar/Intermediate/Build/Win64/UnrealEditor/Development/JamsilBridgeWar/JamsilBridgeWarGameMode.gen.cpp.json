@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "j:\\documents\\github\\jamsilbridgewar\\jamsilbridgewar\\intermediate\\build\\win64\\unrealeditor\\inc\\jamsilbridgewar\\jamsilbridgewargamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "j:\\documents\\github\\jamsilbridgewar\\jamsilbridgewar\\intermediate\\build\\win64\\jamsilbridgewareditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "j:\\documents\\github\\jamsilbridgewar\\jamsilbridgewar\\intermediate\\build\\win64\\unrealeditor\\development\\jamsilbridgewar\\definitions.jamsilbridgewar.h",
+            "j:\\documents\\github\\jamsilbridgewar\\jamsilbridgewar\\source\\jamsilbridgewar\\jamsilbridgewargamemode.h",
+            "j:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "j:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "j:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "j:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "j:\\documents\\github\\jamsilbridgewar\\jamsilbridgewar\\intermediate\\build\\win64\\unrealeditor\\inc\\jamsilbridgewar\\jamsilbridgewargamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "JamsilBridgeWar",
+			"Path": "J:\\Documents\\GitHub\\JamsilBridgeWar\\JamsilBridgeWar\\Source\\JamsilBridgeWar.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "JamsilBridgeWarEditor",
+			"Path": "J:\\Documents\\GitHub\\JamsilBridgeWar\\JamsilBridgeWar\\Source\\JamsilBridgeWarEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
